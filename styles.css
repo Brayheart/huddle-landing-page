@@ -250,5 +250,12 @@ body {
 
     .footer-wrapper {
         width: auto;
+        padding: 0px 30px;
     }
+
+    .icons {
+        width: auto;
+        justify-content: space-evenly;
+    }
+
   }
