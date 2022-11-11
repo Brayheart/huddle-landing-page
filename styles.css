@@ -3,12 +3,17 @@ body {
 }
 
 button {
+    transition: .2s ease-in-out 0s;
     cursor: pointer;
 }
 
 button:hover {
     transform: scale(1.1);
     transition-duration: .3s;
+}
+
+.get-started:hover {
+    background-color: #F19ADA;
 }
 
 .nav {
